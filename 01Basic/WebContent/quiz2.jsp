@@ -14,7 +14,8 @@
 	출력 숫자 수: <input type="number" name="num3"><br/><br/>
 	<br/>
 	<input type="submit" value="알려줘">	
-	<br>
+	<br> 수정수정
+	
 </form>
 
 </body>
